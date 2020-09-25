@@ -1,1 +1,3 @@
 # magPrices
+We have goods in the store with a price between 0.01 and 100. Find all three prices whose sum is equal to their product. This corresponds to the story that a customer comes to the store, chooses three products and goes to the cash register. But the cashier, instead of adding prices, simply multiplies them. A surprised customer says, after all, prices should be added together. For this the seller OK I will add them, but the bill remains the same, OK, so how many such possible bills are there with three prices out of 10,000 products each with a different price from 0.01 to 100 (somecoins) whose sum of prices is equal to the product of prices?
+There are 1,000,000,000,000 possible combinations and the program finds them in 30 seconds.
